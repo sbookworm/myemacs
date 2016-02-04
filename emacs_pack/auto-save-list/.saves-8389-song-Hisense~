@@ -1,0 +1,4 @@
+/ssh:root@192.168.7.11:/root/cookbook/cms/topic.py
+#_assh_broot@192.168.7.11_b_aroot_acookbook_acms_atopic.py#
+/ssh:root@192.168.7.11:/root/cookbook/cms/material.py
+#_assh_broot@192.168.7.11_b_aroot_acookbook_acms_amaterial.py#
